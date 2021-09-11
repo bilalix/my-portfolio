@@ -1,6 +1,6 @@
 # My Resume
 
-[LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+[LIVE DEMO](https://bilalix.netlify.app/)
 
 ## Description
 
