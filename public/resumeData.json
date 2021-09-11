@@ -1,13 +1,12 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Bilal El Houdaigui",
+    "description":"I'm a web development engineer, I use Python & React to develop robust and user-friendly web applications",
+    "image":"profile-pic.jpg",
+    "bio":"I'm known for being passionate about what I'm doing, firm believer that Googling effectively is an extremely useful skill, in my spare time I like to learn new technolgies or at least explore what's in the market, I also like reading books and playing video games.",
+    "contactmessage":"Feel free to get in touch using the contact from below",
+    "email": "bilal.elhoudaigui@gmail.com",
+    "github":"https://github.com/bilalix",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
@@ -19,90 +18,90 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name":"github",
+        "url":"https://github.com/bilalix",
+        "className":"fa fa-github"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/bilalelhoudaigui/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name":"goodreads",
+        "url":"https://www.goodreads.com/user/show/70328159-bilal-hikari",
+        "className":"fa fa-book"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
+    "skillmessage":"Tech stack that I'm learning and using recently (Always willing to learn)",
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
+        "company":"EMBL's European Bioinformatics Institute (EMBL-EBI) - Hinxton, United Kingdom",
+        "title":"Ensembl Applications Developer",
+        "years":"April 2020 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Research Unit Genomic Info (URGI) at the French National Institute for Agricultural Research (INRA) - Versailles, France",
+        "title":"Data Integration/Web Developer",
+        "years":"July 2018 - March 2020",
+        "description":"Managing and developing workflows to Extract, Transform and Load (ETL) biological data from heterogeneous databases (Graph & SQL) AND Contributing to the development of the International Plant Data Portal of the French Institute of Bioinformatics."
+      },
+      {
+        "company":"Internship in Microbiology, Adaptation and Pathogenesis Laboratory - Lyon, France",
+        "title":"Python Developer",
+        "years":"February 2017 - July 2017",
+        "description":"The aim of the internship was to develop a model that simulates the transcription-supercoiling coupling of DNA in bacteria."
       }
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"Python (Django)",
+        "level":"65%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      },
+      {
+        "name":"MySql",
         "level":"60%"
       },
       {
-        "name":"VueJs",
+        "name":"Elasticsearch",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"Docker",
+        "level":"60%"
+      },
+      {
+        "name":"Kubernetes",
+        "level":"30%"
+      },
+      {
+        "name":"Scrum",
         "level":"55%"
+      }
+    ],
+    "education":[
+      {
+        "school":"National School of Applied Science - Tangier, Morocco",
+        "degree":"Master in Bioinformatics and Complex Systems",
+        "graduated":"September 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "school":"Faculty of Sciences and Technics - Tangier, Morocco",
+        "degree":"Bachelor Degree in Computer Science",
+        "graduated":"June 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ]
   },
@@ -110,75 +109,43 @@
     "projects": [
       {
         "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "description":"My Travel Blog for my post-university travels",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url_live":"#",
+        "url_code":"#"
       },
       {
         "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "description":"(offline now) A fighting gear company I started",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url_live":"#",
+        "url_code":"#"
       },
       {
         "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "description":"Website I built for a restaurant I like in Thailand",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url_live":"#",
+        "url_code":"#"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Arabic Reshaper",
+        "description":"Reconstruct Arabic sentences to be used in applications which doesn't support Arabic",
+        "image":"arabic-reshaper.png",
+        "url_live":"https://github.com/bilalix/arabic-reshaper-app",
+        "url_code":"https://github.com/bilalix/arabic-reshaper-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
