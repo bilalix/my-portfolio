@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Bilal El Houdaigui",
-    "description":"I'm a web development engineer, I use Python & React to develop robust and user-friendly web applications",
+    "description":"I'm a software developer, I use mainly Python & React to develop robust and user-friendly web applications",
     "image":"profile-pic.jpg",
-    "bio":"I'm known for being passionate about what I'm doing, firm believer that Googling effectively is an extremely useful skill, in my spare time I like to learn new technolgies or at least explore what's in the market, I also like reading books and playing video games.",
+    "bio":"I'm known for being passionate about what I'm doing, firm believer that Googling effectively is an extremely useful skill, in my spare time I like to learn new technolgies and explore what's in the market, enjoy a walk in the forest or near the sea, I also like reading books, playing chess and video games.",
     "contactmessage":"Feel free to get in touch using the contact from below",
     "email": "bilal.elhoudaigui@gmail.com",
     "github":"https://github.com/bilalix",
@@ -14,8 +14,8 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://bilalix.netlify.app/",
+    "resumedownload":"https://bilalix.netlify.app/",
     "social":[
       {
         "name":"github",
@@ -58,12 +58,12 @@
     ],
     "skills":[
       {
-        "name":"Python (Django)",
-        "level":"65%"
+        "name":"Python (Django & Flask)",
+        "level":"75%"
       },
       {
         "name":"React",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"MySql",
@@ -74,8 +74,8 @@
         "level":"60%"
       },
       {
-        "name":"Git",
-        "level":"50%"
+        "name":"Git (GitHub & GitLab)",
+        "level":"60%"
       },
       {
         "name":"Docker",
@@ -83,7 +83,7 @@
       },
       {
         "name":"Kubernetes",
-        "level":"30%"
+        "level":"50%"
       },
       {
         "name":"Scrum",
@@ -108,25 +108,25 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "description":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url_live":"#",
-        "url_code":"#"
+        "title":"Reddit Fetcher",
+        "description":"Fetch Posts from reddit using their API",
+        "image":"reddit-fetcher.png",
+        "url_live":"https://github.com/bilalix/redditFetcher",
+        "url_code":"https://github.com/bilalix/redditFetcher"
       },
       {
-        "title":"Fury Fighting Gear",
-        "description":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url_live":"#",
-        "url_code":"#"
+        "title":"Arabic Reshaper",
+        "description":"Reconstruct Arabic sentences to be used in applications which doesn't support Arabic",
+        "image":"arabic-reshaper.png",
+        "url_live":"https://github.com/bilalix/arabic-reshaper-app",
+        "url_code":"https://github.com/bilalix/arabic-reshaper-app"
       },
       {
-        "title":"Original Thai Food",
-        "description":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url_live":"#",
-        "url_code":"#"
+        "title":"Reddit Fetcher",
+        "description":"Fetch Posts from reddit using their API",
+        "image":"reddit-fetcher.png",
+        "url_live":"https://github.com/bilalix/redditFetcher",
+        "url_code":"https://github.com/bilalix/redditFetcher"
       },
       {
         "title":"Arabic Reshaper",

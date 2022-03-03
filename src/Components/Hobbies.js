@@ -35,6 +35,9 @@ class Hobbies extends Component {
                   <li>
                     <a href="https://www.goodreads.com/series/44866-the-inheritance-cycle">The Inheritance Cycle Series</a> by Christopher Paolini
                   </li>
+                  <li>
+                    <a href="https://www.goodreads.com/book/show/17255186-the-phoenix-project">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a> by Gene Kim, Kevin Behr, George Spafford
+                  </li>
                 </ul>
               </div>
 
@@ -51,6 +54,9 @@ class Hobbies extends Component {
                   </li>
                   <li>
                     <a href="./">The Last of Us Series</a> (Naughty Dog)
+                  </li>
+                  <li>
+                    <a href="./">Ghost of Tsushima</a> (Sucker Punch)
                   </li>
                   <li>
                     <a href="./">God of War</a> By (Santa Monica Studio)
